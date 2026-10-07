@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-07
 name: "Repository Risk Simulator"
 author: "bikashshah15"
 github_url: "https://github.com/bikashshah15/repo-risk-simulator"
